@@ -2,7 +2,7 @@
 
 # Realtime Chat
 
-This is a realtime chat built with Go (JWT auth, Websocket), Next.js, and TypeScript using PostgreSQL.
+This is a realtime chat built with Go (JWT auth, Websocket), Next.js (Tailwind CSS), and TypeScript using PostgreSQL.
 
 ## Installation
 
